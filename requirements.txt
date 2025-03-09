@@ -1,0 +1,10 @@
+kagglehub
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+wordcloud
+textblob
+scikit-learn
+tqdm 
