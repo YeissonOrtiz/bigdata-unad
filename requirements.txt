@@ -3,4 +3,6 @@ kafka-python==2.0.2
 matplotlib==3.5.2
 pandas==1.4.3
 numpy==1.23.1
-findspark==2.0.1 
+findspark==2.0.1
+textblob==0.15.3
+nltk==3.7

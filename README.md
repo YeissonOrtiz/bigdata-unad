@@ -13,7 +13,7 @@ Este proyecto demuestra el uso de tecnologías Big Data para procesar y analizar
 ## Instalación de dependencias
 
 ```bash
-pip install pyspark kafka-python matplotlib pandas numpy
+pip install pyspark kafka-python matplotlib pandas numpy textblob findspark nltk
 ```
 
 ## Descargar datasets
