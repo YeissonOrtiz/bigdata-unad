@@ -1,0 +1,6 @@
+*.csv
+/analysis_results/*
+/cleaned_tweets_parquet/*
+/processed_data/*
+/streaming_results/*
+us-election-2020-tweets.zip
