@@ -19,7 +19,7 @@ pip install pyspark kafka-python matplotlib pandas numpy textblob findspark nltk
 ## Descargar datasets
 
 ```bash
-curl -L -o ./ https://www.kaggle.com/api/v1/datasets/download/manchunhui/us-election-2020-tweets
+curl -L -o ./us-election-2020-tweets.zip https://www.kaggle.com/api/v1/datasets/download/manchunhui/us-election-2020-tweets
 ```
 
 ## Descomprimir dataset
